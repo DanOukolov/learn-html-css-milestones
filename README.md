@@ -85,23 +85,23 @@ Here are some more reference-like resources. These might be slightly technical, 
 
 You should be able to...
 
-- [ ] Open this repo on the command line (Bash or Terminal) from within Github Desktop
-- [ ] Use `cd tests` to navigate to the tests directory
-- [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir empty-directory` to create an empty directory
-- [ ] Use `cd empty-directory`
-- [ ] Use `touch empty-file.html` to create an empty file
-- [ ] Use `cd ../` to navigate back up to the root directory of the repo
-- [ ] Use `Atom .` to open the current directory in your code editor
+- [x] Open this repo on the command line (Bash or Terminal) from within Github Desktop
+- [x] Use `cd tests` to navigate to the tests directory
+- [x] Use `ls` to list the contents of a directory
+- [x] Use `mkdir empty-directory` to create an empty directory
+- [x] Use `cd empty-directory`
+- [x] Use `touch empty-file.html` to create an empty file
+- [x] Use `cd ../` to navigate back up to the root directory of the repo
+- [x] Use `Atom .` to open the current directory in your code editor
 
 
 ### Editing and Viewing
 
-- [ ] ✏️ Create a new (empty) HTML file named `basic-image.html` and edit it in Atom
-- [ ] ✏️ Write some HTML in `basic-image.html`
-- [ ] Open `basic-image.html` in your browser and test it locally
-- [ ] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
-- [ ] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
+- [x] ✏️ Create a new (empty) HTML file named `basic-image.html` and edit it in Atom
+- [x] ✏️ Write some HTML in `basic-image.html`
+- [x] Open `basic-image.html` in your browser and test it locally
+- [x] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
+- [x] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
 
 
 
