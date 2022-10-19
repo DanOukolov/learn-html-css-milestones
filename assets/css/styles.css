@@ -48,6 +48,11 @@ img {
   
 }
 
-div.SectionTwo p {
-  border: 1px;
+div.divOne a{
+  color: blueviolet;
+}
+
+
+div.divTwo > a{
+  color: blue;
 }

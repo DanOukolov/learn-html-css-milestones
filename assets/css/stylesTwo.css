@@ -1,0 +1,12 @@
+.textfun{
+    color:blueviolet;
+}
+
+#SectionTwo.textfun > h2{
+    color:red;
+}
+.border{
+    border-width: 10px;
+    border-color: red;
+    border-style: dashed;
+}
