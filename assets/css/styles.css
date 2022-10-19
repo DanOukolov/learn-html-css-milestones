@@ -25,3 +25,29 @@ pre {
 pre code {
   white-space: pre-line;
 }
+
+p {
+  color:red;
+  text-align: center;
+  text-transform: capitalize;
+  line-height: 10px;
+  letter-spacing: 10px;
+  font-style: italic;
+}
+
+.SectionOne {
+  padding: 10px 10px 10px 10px;
+  max-width: max-content;
+}
+
+img {
+  height:200px;
+  width:200px;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+div.SectionTwo p {
+  border: 1px;
+}
