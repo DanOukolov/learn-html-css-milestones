@@ -290,7 +290,7 @@ You should be able to...
 
 - [x] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [x] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [x] ✏️ Replace this: [github.com/Dan-Oukolov/learn-html-css-milestones](https://github.com/Dan-Oukolov/learn-html-css-milestones) with your Github.com/repository url.
+- [x] ✏️ Replace this: [github.com/DanOukolov/learn-html-css-milestones](https://github.com/DanOukolov/learn-html-css-milestones) with your Github.com/repository url.
 - [x] ✏️ Replace this: [***username***.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones) with your repo's Github Page url.
 
 
